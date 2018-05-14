@@ -1,4 +1,4 @@
-package br.com.martinsbrn.estudos.hackerrank;
+package br.com.martinsbrn.estudos.hackerrank.implementation;
 
 import java.util.Scanner;
 

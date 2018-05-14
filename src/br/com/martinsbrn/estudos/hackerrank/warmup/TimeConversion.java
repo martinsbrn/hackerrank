@@ -1,4 +1,4 @@
-package br.com.martinsbrn.estudos.hackerrank;
+package br.com.martinsbrn.estudos.hackerrank.warmup;
 
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
