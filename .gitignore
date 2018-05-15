@@ -1,6 +1,9 @@
 /target/
-classes/
+/classes/
+*/.settings/*
+*/.project
+*/.classpath
+*/.factorypath
 *.class
-.settings/
-.classpath
 .project
+.classpath
